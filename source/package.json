@@ -1,0 +1,14 @@
+{
+  "name": "horizonte-inventory",
+  "version": "1.0.0",
+  "description": "Sistema de inventario para Librería Horizonte S.R.L.",
+  "main": "source/app.js",
+  "scripts": {
+    "start": "node source/app.js",
+    "dev": "node source/app.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3",
+    "express": "^4.18.2"
+  }
+}

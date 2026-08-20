@@ -1,0 +1,4 @@
+2026-08-20 20:59:23 INFO  Application started on port 8080
+2026-08-20 21:02:01 INFO  GET /health
+2026-08-20 21:02:01 INFO  GET /api/products
+2026-08-20 21:02:54 INFO  GET /health
